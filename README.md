@@ -1,4 +1,3 @@
-[![MasterHead](https://img.freepik.com/free-photo/technology-circuit-processor-innovation-network-concept_53876-124249.jpg?t=st=1719166778~exp=1719170378~hmac=44b20fac6c77485f26b848c30506d88be4f92ff72196cdc7805359782dfc8581&w=900)](https://anshul3131.io)
 <h1 align="center">Hi 👋, I'm Anshul Agarwal</h1>
 <h3 align="center">I’m interested in Web Development, Machine Learning and Competitive Programming.</h3>
 <img align="right" alt = "Coding" width = "400" src = "https://img.freepik.com/free-photo/3d-portrait-people_23-2150793856.jpg?size=626&ext=jpg&ga=GA1.1.2067044898.1718035820&semt=ais_user">
