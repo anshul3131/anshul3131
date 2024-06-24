@@ -6,9 +6,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 👯 I’m looking to collaborate on **Web Development and Machine Learning**
-
-- 🤝 I’m looking for help with **Competitive Programming**
-
+  
 - 📫 How to reach me **anshulagarwal3131@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
